@@ -1,0 +1,4 @@
+# Never commit personal data or tokens
+oura_token.txt
+health-data/
+*.env
